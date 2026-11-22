@@ -1,0 +1,141 @@
+[
+  {
+    "workId": "OL17930368W",
+    "url": "https://openlibrary.org/works/OL17930368W",
+    "title": "Atomic Habits",
+    "subtitle": null,
+    "authors": [
+      "James Clear"
+    ],
+    "authorIds": [
+      "OL7422948A"
+    ],
+    "firstPublishedYear": 2016,
+    "editionCount": 42,
+    "pages": 322,
+    "ratingAverage": 3.97,
+    "ratingsCount": 1502,
+    "wantToRead": 59722,
+    "currentlyReading": 5167,
+    "alreadyRead": 1779,
+    "subjects": [
+      "Habit",
+      "Habit breaking",
+      "Behavior modification",
+      "Self-actualization (psychology)",
+      "Business",
+      "psychology",
+      "Personal Growth",
+      "New York Times bestseller",
+      "BUSINESS & ECONOMICS / Organizational Behavior",
+      "PSYCHOLOGY / Social Psychology",
+      "SELF-HELP / Personal Growth / General."
+    ],
+    "languages": [
+      "fre",
+      "por",
+      "ger",
+      "spa",
+      "ind",
+      "eng",
+      "tur"
+    ],
+    "publishers": [
+      "Avery",
+      "Larousse",
+      "Lifestyle Publishing",
+      "Avery, an Imprint of Penguin Random House LLC",
+      "Penguin Audio"
+    ],
+    "isbn13": [
+      "9780593189641",
+      "9786052998380",
+      "9782035969200",
+      "9786020667201",
+      "9789584277954"
+    ],
+    "goodreadsIds": [
+      "62221762"
+    ],
+    "amazonIds": [
+      "B07RFSSYBH",
+      "B09YTXNR2H"
+    ],
+    "ebookAccess": "printdisabled",
+    "coverUrl": "https://covers.openlibrary.org/b/id/12539702-L.jpg",
+    "description": "No matter your goals, Atomic Habits offers a proven framework for improving every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to rema...",
+    "source": "search: atomic habits"
+  },
+  {
+    "workId": "OL27928969W",
+    "url": "https://openlibrary.org/works/OL27928969W",
+    "title": "Summary of Atomic Habits by James Clear",
+    "subtitle": null,
+    "authors": [
+      "James C. Scott"
+    ],
+    "authorIds": [
+      "OL2444127A"
+    ],
+    "firstPublishedYear": 2022,
+    "editionCount": 1,
+    "pages": 30,
+    "ratingAverage": 3.71,
+    "ratingsCount": 7,
+    "wantToRead": 289,
+    "currentlyReading": 30,
+    "alreadyRead": 8,
+    "subjects": [],
+    "languages": [
+      "eng"
+    ],
+    "publishers": [
+      "Independently Published"
+    ],
+    "isbn13": [
+      "9798418172082"
+    ],
+    "goodreadsIds": [],
+    "amazonIds": [],
+    "ebookAccess": "no_ebook",
+    "coverUrl": "https://covers.openlibrary.org/b/id/15095145-L.jpg",
+    "description": null,
+    "source": "search: atomic habits"
+  },
+  {
+    "workId": "OL28914058W",
+    "url": "https://openlibrary.org/works/OL28914058W",
+    "title": "Summary of Atomic Habits",
+    "subtitle": null,
+    "authors": [
+      "John Cleverly"
+    ],
+    "authorIds": [
+      "OL3733504A"
+    ],
+    "firstPublishedYear": 2022,
+    "editionCount": 1,
+    "pages": null,
+    "ratingAverage": null,
+    "ratingsCount": 0,
+    "wantToRead": 115,
+    "currentlyReading": 3,
+    "alreadyRead": 0,
+    "subjects": [],
+    "languages": [
+      "spa"
+    ],
+    "publishers": [
+      "Independently Published"
+    ],
+    "isbn13": [
+      "9798796303146"
+    ],
+    "goodreadsIds": [],
+    "amazonIds": [],
+    "ebookAccess": "no_ebook",
+    "coverUrl": "https://covers.openlibrary.org/b/id/15114370-L.jpg",
+    "description": null,
+    "source": "search: atomic habits"
+  }
+]
