@@ -117,6 +117,7 @@ for b in client.dataset(run["defaultDatasetId"]).iterate_items():
 | `publishedAfter` | 0 | First published year floor |
 | `minRatingsCount` | 0 | Skip less-rated books |
 | `includeDescription` | true | Adds the book description |
+| `maxPerQuery` | 0 | Cap per query (0 = none) |
 | `maxResults` | 50 | Total cap per run |
 
 ---

@@ -1,141 +1,198 @@
 [
   {
-    "workId": "OL17930368W",
-    "url": "https://openlibrary.org/works/OL17930368W",
-    "title": "Atomic Habits",
+    "workId": "OL82563W",
+    "url": "https://openlibrary.org/works/OL82563W",
+    "title": "Harry Potter and the Philosopher's Stone",
     "subtitle": null,
     "authors": [
-      "James Clear"
+      "J. K. Rowling"
     ],
     "authorIds": [
-      "OL7422948A"
+      "OL23919A"
     ],
-    "firstPublishedYear": 2016,
-    "editionCount": 42,
-    "pages": 322,
-    "ratingAverage": 3.97,
-    "ratingsCount": 1502,
-    "wantToRead": 59722,
-    "currentlyReading": 5167,
-    "alreadyRead": 1779,
+    "firstPublishedYear": 1997,
+    "editionCount": 400,
+    "pages": 302,
+    "ratingAverage": 4.22,
+    "ratingsCount": 1088,
+    "wantToRead": 21364,
+    "currentlyReading": 1880,
+    "alreadyRead": 1780,
     "subjects": [
-      "Habit",
-      "Habit breaking",
-      "Behavior modification",
-      "Self-actualization (psychology)",
-      "Business",
-      "psychology",
-      "Personal Growth",
-      "New York Times bestseller",
-      "BUSINESS & ECONOMICS / Organizational Behavior",
-      "PSYCHOLOGY / Social Psychology",
-      "SELF-HELP / Personal Growth / General."
+      "series:Harry_Potter",
+      "Ghosts",
+      "Monsters",
+      "Vampires",
+      "Witches",
+      "Challenges and Overcoming Obstacles",
+      "Magic and Supernatural",
+      "Cleverness",
+      "School Life",
+      "school stories",
+      "Wizards",
+      "Magic",
+      "MAGIA",
+      "MAGOS",
+      "Juvenile fiction"
     ],
     "languages": [
+      "nep",
+      "bul",
+      "rus",
       "fre",
+      "swe",
+      "hin",
+      "pol",
+      "vie",
+      "kor",
       "por",
-      "ger",
-      "spa",
-      "ind",
-      "eng",
-      "tur"
+      "dan",
+      "dut",
+      "gla",
+      "gre",
+      "ita",
+      "jpn",
+      "gle",
+      "tha",
+      "hun",
+      "yid"
     ],
     "publishers": [
-      "Avery",
-      "Larousse",
-      "Lifestyle Publishing",
-      "Avery, an Imprint of Penguin Random House LLC",
-      "Penguin Audio"
+      "Standaard",
+      "BBC Audiobooks",
+      "ROCCO",
+      "Dituria",
+      "Der Hörverlag"
     ],
     "isbn13": [
-      "9780593189641",
-      "9786052998380",
-      "9782035969200",
-      "9786020667201",
-      "9789584277954"
+      "9788498388879",
+      "9788532511010",
+      "9780320038433",
+      "9782070612369",
+      "9781408883730"
     ],
     "goodreadsIds": [
-      "62221762"
+      "https://www.goodreads.com/book/show/231288024-harry-potter-e-a-pedra-filosofal",
+      "https://www.goodreads.com/book/show/63118549-harry-potter-e-a-pedra-filosofal",
+      "22841994"
     ],
     "amazonIds": [
-      "B07RFSSYBH",
-      "B09YTXNR2H"
+      "B0F14PDX2Z",
+      "6555325372",
+      "1781103232"
     ],
-    "ebookAccess": "printdisabled",
-    "coverUrl": "https://covers.openlibrary.org/b/id/12539702-L.jpg",
-    "description": "No matter your goals, Atomic Habits offers a proven framework for improving every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to rema...",
-    "source": "search: atomic habits"
+    "ebookAccess": "borrowable",
+    "coverUrl": "https://covers.openlibrary.org/b/id/15155833-L.jpg",
+    "description": "Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'. HARRY POTTER has never even heard of Hogwarts when the LETTERS start dropping on the doormat at number four, Privet Drive. Address...",
+    "source": "subject: fantasy"
   },
   {
-    "workId": "OL27928969W",
-    "url": "https://openlibrary.org/works/OL27928969W",
-    "title": "Summary of Atomic Habits by James Clear",
+    "workId": "OL35351151W",
+    "url": "https://openlibrary.org/works/OL35351151W",
+    "title": "Um casamento arranjado",
     "subtitle": null,
     "authors": [
-      "James C. Scott"
+      "Zana Kheiron"
     ],
     "authorIds": [
-      "OL2444127A"
+      "OL12780216A"
     ],
-    "firstPublishedYear": 2022,
-    "editionCount": 1,
-    "pages": 30,
-    "ratingAverage": 3.71,
-    "ratingsCount": 7,
-    "wantToRead": 289,
-    "currentlyReading": 30,
-    "alreadyRead": 8,
-    "subjects": [],
+    "firstPublishedYear": 2019,
+    "editionCount": 15,
+    "pages": 160,
+    "ratingAverage": 4.14,
+    "ratingsCount": 1139,
+    "wantToRead": 20775,
+    "currentlyReading": 2241,
+    "alreadyRead": 646,
+    "subjects": [
+      "romance",
+      "love"
+    ],
     "languages": [
-      "eng"
+      "por"
     ],
     "publishers": [
-      "Independently Published"
+      "Lera",
+      "Orxford",
+      "Lera.mobi",
+      "Oxfor",
+      "Bilionários "
     ],
-    "isbn13": [
-      "9798418172082"
-    ],
+    "isbn13": [],
     "goodreadsIds": [],
     "amazonIds": [],
     "ebookAccess": "no_ebook",
-    "coverUrl": "https://covers.openlibrary.org/b/id/15095145-L.jpg",
-    "description": null,
-    "source": "search: atomic habits"
+    "coverUrl": "https://covers.openlibrary.org/b/id/14321120-L.jpg",
+    "description": "Uma historia de uma familia falida q faz acordo com outra familia rica e sua filha mais velha e cedida em troca. O filho da família rica teve um acidente de avião que queimou 50% do seu corpo e casa c essa linda moca e se apaixonam",
+    "source": "subject: romance"
   },
   {
-    "workId": "OL28914058W",
-    "url": "https://openlibrary.org/works/OL28914058W",
-    "title": "Summary of Atomic Habits",
+    "workId": "OL27733867W",
+    "url": "https://openlibrary.org/works/OL27733867W",
+    "title": "It Starts with Us",
     "subtitle": null,
     "authors": [
-      "John Cleverly"
+      "Colleen Hoover"
     ],
     "authorIds": [
-      "OL3733504A"
+      "OL7315784A"
     ],
     "firstPublishedYear": 2022,
-    "editionCount": 1,
-    "pages": null,
-    "ratingAverage": null,
-    "ratingsCount": 0,
-    "wantToRead": 115,
-    "currentlyReading": 3,
-    "alreadyRead": 0,
-    "subjects": [],
+    "editionCount": 26,
+    "pages": 344,
+    "ratingAverage": 4.01,
+    "ratingsCount": 423,
+    "wantToRead": 18290,
+    "currentlyReading": 866,
+    "alreadyRead": 519,
+    "subjects": [
+      "Chick Lit",
+      "Contemporary",
+      "Romance",
+      "Friendship",
+      "Fiction",
+      "Young Adult Fiction",
+      "Contemporary Romance",
+      "Adult",
+      "collectionid:nyt2020s",
+      "American literature",
+      "new adult",
+      "domestic violence",
+      "second chance romance",
+      "forbidden love",
+      "family"
+    ],
     "languages": [
-      "spa"
+      "por",
+      "eng",
+      "spa",
+      "fre"
     ],
     "publishers": [
-      "Independently Published"
+      "Colleen Hoover",
+      "Atria",
+      "Simon & Schuster Ltd",
+      "Thorndike Press",
+      "Editorial Planeta"
     ],
     "isbn13": [
-      "9798796303146"
+      "9781398518162",
+      "9786070796746",
+      "9781398518179",
+      "9782755663457",
+      "9781797145105"
     ],
-    "goodreadsIds": [],
-    "amazonIds": [],
+    "goodreadsIds": [
+      "60393672"
+    ],
+    "amazonIds": [
+      "1668001225",
+      "B09VHX23NX"
+    ],
     "ebookAccess": "no_ebook",
-    "coverUrl": "https://covers.openlibrary.org/b/id/15114370-L.jpg",
-    "description": null,
-    "source": "search: atomic habits"
+    "coverUrl": "https://covers.openlibrary.org/b/id/12749873-L.jpg",
+    "description": "**Before It Ends with Us, it started with Atlas. Colleen Hoover tells fan favorite Atlas’s side of the story and shares what comes next in this long-anticipated sequel to the “glorious and touching” (USA TODAY) #1 New York Times bestseller It Ends with Us.** Lily and her ex-husband, Ryle, have just ...",
+    "source": "subject: romance"
   }
 ]
